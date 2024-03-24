@@ -1,5 +1,7 @@
 # ELEC 5660 Project 2 Phase 1
 
+[![ROS Noetic Docker build](https://github.com/Tom-Notch/ELEC-5660-Project-2-Phase-1/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/Tom-Notch/ELEC-5660-Project-2-Phase-1/actions/workflows/ci.yml)
+
 Pre-built docker image contains all the dependencies and can be used as dev/deploy image, it is multi-arch and can run on both x86 and ARM devices.
 
 ## Dependencies
